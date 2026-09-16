@@ -1,0 +1,14 @@
+node_modules
+**/node_modules
+__pycache__
+**/__pycache__
+*.pyc
+.git
+.gitignore
+.venv
+venv
+dist
+**/dist
+.gemini
+data/*.db
+data/*.sqlite3
